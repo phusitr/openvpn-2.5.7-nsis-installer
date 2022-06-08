@@ -14,8 +14,8 @@
 !define BIN "${HOME}\bin"
 
 !define PRODUCT_NAME "OpenVPN"
-!define PRODUCT_PUBLISHER "NECTEC, NSTDA, Thailand"
-!define OPENVPN_VERSION "2.5.6"
+!define PRODUCT_PUBLISHER "xxxxxxxxxxxxxxx"
+!define OPENVPN_VERSION "2.5.7"
 
 !define TAP "tap0901"
 !define TAPDRV "${TAP}.sys"
